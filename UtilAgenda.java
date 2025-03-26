@@ -1,3 +1,6 @@
+//Rayane WATTEEUW Etudiant BTS SIO Option SLAM/Developpeur
+//Lycee Réne Descartes Champs sur marne 77420, France
+//25/03/2025
 import java.util.*;
 import java.io.*;
 
